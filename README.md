@@ -1,4 +1,4 @@
-# MEŞHUR TRABZON PİLAVCISI - Restoran Web Sitesi
+# MEŞHUR TRABZON PİLAVCISI 1998 ÖZKAN USTA - Restoran Web Sitesi
 
 ## Proje Açıklaması
 
